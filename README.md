@@ -1,4 +1,4 @@
-## Student at Chalmers, IT
+## Student
 
 <!--
 **Al-ex-W/Al-ex-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
